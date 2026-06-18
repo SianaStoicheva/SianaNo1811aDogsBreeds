@@ -25,7 +25,6 @@ namespace DogsBreeds
         {
             lstAnimals.HorizontalScrollbar = true;
 
-
             DialogResult result = MessageBox.Show(
                 "Желаете ли да стартирате системата за приют за кучета?",
                 "Потвърждение",
