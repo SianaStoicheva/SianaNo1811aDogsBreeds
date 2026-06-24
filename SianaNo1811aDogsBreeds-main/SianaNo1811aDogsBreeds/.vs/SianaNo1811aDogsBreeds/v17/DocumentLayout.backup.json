@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\dogsbreeds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\dogsbreeds\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|c:\\users\\stem-1-6\\downloads\\sianano1811adogsbreeds-main\\sianano1811adogsbreeds-main\\sianano1811adogsbreeds\\dogsbreeds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Animals_11a/True/SqlTable/dbo.Breeds.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Animals_11a/True/SqlTable/dbo.Animals.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|c:\\users\\stem-1-6\\downloads\\sianano1811adogsbreeds-main\\sianano1811adogsbreeds-main\\sianano1811adogsbreeds\\dogsbreeds\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\dogsbreeds\\business\\animallogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\business\\animallogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\dogsbreeds\\business\\breedlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\business\\breedlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\dogsbreeds\\models\\animalscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\models\\animalscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\dogsbreeds\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D4E10-0729-40AC-A063-381CBD4752B4}|DogsBreeds\\DogsBreeds.csproj|solutionrelative:dogsbreeds\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DogsBreeds||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Animals [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Animals_11a/True/SqlTable/dbo.Animals.sql",
+              "ToolTip": "dbo.Animals [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-24T08:51:51.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Breeds [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Animals_11a/True/SqlTable/dbo.Breeds.sql",
+              "ToolTip": "dbo.Breeds [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-24T08:51:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DogsBreeds\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAiwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T08:39:52.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DogsBreeds",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\DogsBreeds.csproj",
+              "RelativeDocumentMoniker": "DogsBreeds\\DogsBreeds.csproj",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\DogsBreeds.csproj",
+              "RelativeToolTip": "DogsBreeds\\DogsBreeds.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-17T19:53:45.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BreedLogic.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Business\\BreedLogic.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Business\\BreedLogic.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Business\\BreedLogic.cs",
+              "RelativeToolTip": "DogsBreeds\\Business\\BreedLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T14:49:19.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimalLogic.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Business\\AnimalLogic.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Business\\AnimalLogic.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Business\\AnimalLogic.cs",
+              "RelativeToolTip": "DogsBreeds\\Business\\AnimalLogic.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T14:46:22.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Form1.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Form1.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Form1.cs [Design]*",
+              "RelativeToolTip": "DogsBreeds\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:49:57.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Form1.Designer.cs*",
+              "RelativeToolTip": "DogsBreeds\\Form1.Designer.cs*",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAYwAQBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:29:29.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Models\\Animal.cs",
+              "RelativeToolTip": "DogsBreeds\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T07:51:51.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Form1.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Form1.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Form1.cs*",
+              "RelativeToolTip": "DogsBreeds\\Form1.cs*",
+              "ViewState": "AgIAAHoBAAAAAAAAAAAiwIwBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:13:01.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnimalsContext.cs",
+              "DocumentMoniker": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Models\\AnimalsContext.cs",
+              "RelativeDocumentMoniker": "DogsBreeds\\Models\\AnimalsContext.cs",
+              "ToolTip": "C:\\Users\\STEM-1-6\\Downloads\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds-main\\SianaNo1811aDogsBreeds\\DogsBreeds\\Models\\AnimalsContext.cs",
+              "RelativeToolTip": "DogsBreeds\\Models\\AnimalsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T06:53:13.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
