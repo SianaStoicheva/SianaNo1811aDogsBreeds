@@ -258,9 +258,7 @@ namespace DogsBreeds
             // 
             this.lstAnimals.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.lstAnimals.FormattingEnabled = true;
-            this.lstAnimals.HorizontalExtent = 1000;
-            this.lstAnimals.HorizontalScrollbar = true;
+            this.lstAnimals.HorizontalScrollbar = false;
             this.lstAnimals.ItemHeight = 15;
             this.lstAnimals.Location = new System.Drawing.Point(525, 295);
             this.lstAnimals.Margin = new System.Windows.Forms.Padding(4);

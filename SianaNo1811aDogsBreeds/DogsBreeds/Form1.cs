@@ -23,8 +23,6 @@ namespace DogsBreeds
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            lstAnimals.HorizontalScrollbar = true;
-
             DialogResult result = MessageBox.Show(
                 "Желаете ли да стартирате системата за приют за кучета?",
                 "Потвърждение",
@@ -39,7 +37,6 @@ namespace DogsBreeds
             }
 
             LoadBreeds();
-
             ShowAllAnimals();
         }
 
@@ -395,10 +392,7 @@ namespace DogsBreeds
 
             int breedId = (int)cmbBreed.SelectedValue;
 
-            List<Animal> filteredAnimals = animalController.GetAll()
-                .Where(a => a.BreedID == breedId)
-                .OrderBy(a => a.Name)
-                .ToList();
+            List<Animal> filteredAnimals = animalController.GetAll().Where(a => a.BreedID == breedId).OrderBy(a => a.Id).ToList();
 
             lstAnimals.Items.Clear();
 
